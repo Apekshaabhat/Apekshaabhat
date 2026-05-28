@@ -13,8 +13,9 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
 
 ## 📈 GitHub Stats  
-![Apeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apekshaabhat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshaabhat&layout=compact&theme=radical) 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Apekshaabhat&theme=react-dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Apekshaabhat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Apekshaabhat&layout=compact&theme=radical)
 
 ## 🔥 My GitHub Streak
 
