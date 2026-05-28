@@ -18,7 +18,7 @@
 
 ## 🔥 My GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anamika6249&theme=dark&background=0d1117&border=0C4A6E&fire=FF4500&currStreakNum=00FF00&sideNums=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apekshaahat&theme=dark&background=0d1117&border=0C4A6E&fire=FF4500&currStreakNum=00FF00&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 ## 🔗 Projects  
 - [Fraud Detection System](https://github.com/yourusername/fraud-detection)  
